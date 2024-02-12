@@ -1,4 +1,4 @@
-This lab sheet and all other materials can be found on GitHub here: https://github.com/QMUL-ECS735P/lab-week-4/
+This lab sheet and all other materials can be found on GitHub here: https://github.com/QMUL-ECS7028P/lab-week-4/
 
 # Introduction to SPARQL
 
@@ -13,7 +13,7 @@ As with the last lab, we'll be using Python to create SPARQL database queries an
 
 If you're new to Python it would be wise to keep the basic tutorial handy for reference: 
 
-* https://docs.python.org/3.7/tutorial/
+* https://docs.python.org/3.8/tutorial/
 
 Python scripts are run by calling the python command, followed by the name of the python script to execute, for example:
 
